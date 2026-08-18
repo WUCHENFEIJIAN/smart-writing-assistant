@@ -19,3 +19,9 @@ PRD.md
 Plan.md
 prompts.md
 design/
+
+.vercel
+.env*
+
+# WorkBuddy local data (memory, skills, etc.)
+.workbuddy/
